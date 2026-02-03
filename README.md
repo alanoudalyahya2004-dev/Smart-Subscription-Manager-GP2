@@ -1,0 +1,1 @@
+# Smart-Subscription-Manager-GP2
