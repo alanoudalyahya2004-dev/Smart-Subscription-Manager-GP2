@@ -19,7 +19,7 @@ This project provides a unified platform to monitor subscriptions, analyze usage
 ## Technologies Used
 - **Flutter** – Mobile application development  
 - **Spring Boot** – Backend services  
-- **PostgreSQL** – Database  
+- **supabase** – Database  
 - **AI / ML** – NLP & LSTM forecasting models  
 - **APIs** – Gmail API, Screen Time API  
 
