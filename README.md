@@ -17,10 +17,13 @@ This project provides a unified platform to monitor subscriptions, analyze usage
 - Time-series forecasting (LSTM) for future expenses  
 
 ## Technologies Used
-- **Flutter** – Mobile application development  
-- **Spring Boot** – Backend services  
-- **PostgreSQL (Supabase)** – Database  
-- **AI / ML** – NLP & LSTM forecasting models  
+
+- **Flutter (Dart)** – Mobile Application  
+- **Node.js (Express.js)** – Backend REST API  
+- **PostgreSQL (Hosted on Supabase)** – Database  
+- **JWT** – Authentication  
+- **Bcrypt** – Password Security  
+- **AI/ML (NLP & LSTM)** – Intelligent Analytics
 - **APIs** – Gmail API, Screen Time API  
 
 ## Project Structure
